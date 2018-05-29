@@ -7,6 +7,7 @@ bb
 
 cc
 
+<<<<<<< HEAD
 
 dd
 
@@ -21,3 +22,5 @@ github 내에서 수정가능함
 
 checkout test
 
+=======
+>>>>>>> parent of 8c4dc5e... ee
