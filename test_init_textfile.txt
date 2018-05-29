@@ -19,4 +19,5 @@ test_init2_pull
 
 github 내에서 수정가능함
 
+checkout test
 
