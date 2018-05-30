@@ -9,6 +9,7 @@ bb
 cc
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 dd
 
@@ -27,3 +28,5 @@ checkout test
 >>>>>>> parent of 8c4dc5e... ee
 =======
 >>>>>>> parent of eae7c09... dd
+=======
+>>>>>>> parent of 8c4dc5e... ee
